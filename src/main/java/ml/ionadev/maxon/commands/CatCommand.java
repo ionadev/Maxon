@@ -29,7 +29,7 @@ import net.dv8tion.jda.core.entities.ChannelType;
 import java.awt.*;
 
 /**
- * @author Piyush Bhangale(bhangaleppiyush@gmail.com)
+ * @author Piyush Bhangale(bhangalepiyush@gmail.com)
  */
 public class CatCommand extends Command
 {

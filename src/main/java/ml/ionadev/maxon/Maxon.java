@@ -30,7 +30,7 @@ import java.nio.file.Paths;
 import java.util.List;
 
 /**
- * @author Piyush Bhangale(bhangaleppiyush@gmail.com)
+ * @author Piyush Bhangale(bhangalepiyush@gmail.com)
  */
 public class Maxon {
     public static void main(String[] args) throws IOException, LoginException,IllegalArgumentException, RateLimitedException
